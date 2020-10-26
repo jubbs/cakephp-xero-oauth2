@@ -25,7 +25,7 @@
         "source": "https://github.com/ishan-biztech/cakephp-xero-oauth2"
     },
     "require": {
-        "cakephp/cakephp": "^3.5",
+        "cakephp/cakephp": "^4.1",
         "xeroapi/xero-php-oauth2": "1.6.5"
     },
     "require-dev": {
