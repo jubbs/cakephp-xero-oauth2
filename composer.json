@@ -1,6 +1,6 @@
 {
     "name": "ishan-biztech/cakephp-xero-oauth2",
-    "description": "Xero Oauth2 API plugin for CakePHP 3.x",
+    "description": "Xero Oauth2 API plugin for CakePHP 4.x",
     "type": "cakephp-plugin",
     "keywords": [
         "cakephp",
@@ -26,7 +26,7 @@
     },
     "require": {
         "cakephp/cakephp": "^4.1",
-        "xeroapi/xero-php-oauth2": "2.1.4"
+        "xeroapi/xero-php-oauth2": "^2.1.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7.14|^6.0"
